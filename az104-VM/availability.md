@@ -5,7 +5,7 @@
 
 #### Upgrade domain
 An update domain is a group of nodes that are upgraded together during the process of a service upgrade (or roll out).
-
+**Azure only update one update domain at a time.**
 #### Fault domain
 A fault domain is a group of nodes that represent a physical unit of failure.
 
