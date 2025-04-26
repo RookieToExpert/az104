@@ -9,4 +9,4 @@ An update domain is a group of nodes that are upgraded together during the proce
 #### Fault domain
 A fault domain is a group of nodes that represent a physical unit of failure.
 
-![0](/img/1-entraID/Capture4.PNG)
+![0](/az104/img/1-entraID/Capture4.PNG)
